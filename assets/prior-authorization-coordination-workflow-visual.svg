@@ -1,0 +1,40 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<rect width="1280" height="46" fill="#FF8200"/>
+<rect y="674" width="1280" height="46" fill="#FF8200"/>
+<rect x="70" y="96" width="10" height="500" fill="#FF8200"/>
+
+<text x="120" y="150" font-family="Georgia,serif" font-size="56" font-weight="700" fill="#000000">PRIOR AUTHORIZATION</text>
+<text x="120" y="225" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#FF8200">IS A COORDINATION WORKFLOW.</text>
+
+<line x1="120" y1="275" x2="875" y2="275" stroke="#FF8200" stroke-width="7"/>
+
+<text x="120" y="340" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#000000">Authorization delays often begin before the claim.</text>
+
+<text x="120" y="420" font-family="Arial,sans-serif" font-size="29" fill="#000000">Payer rules not checked</text>
+<text x="120" y="470" font-family="Arial,sans-serif" font-size="29" fill="#000000">Documentation not ready</text>
+<text x="120" y="520" font-family="Arial,sans-serif" font-size="29" fill="#000000">Pending status not tracked</text>
+<text x="120" y="570" font-family="Arial,sans-serif" font-size="29" fill="#000000">Approval details not verified</text>
+
+<rect x="865" y="105" width="330" height="70" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="895" y="150" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#000000">Service Identified</text>
+
+<rect x="865" y="205" width="330" height="70" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="895" y="250" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#000000">Payer Rules Reviewed</text>
+
+<rect x="865" y="305" width="330" height="70" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="895" y="350" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#000000">Documentation Ready</text>
+
+<rect x="865" y="405" width="330" height="70" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="895" y="450" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#000000">Status Tracked</text>
+
+<rect x="865" y="505" width="330" height="70" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="895" y="550" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#000000">Account Cleared</text>
+
+<line x1="1030" y1="175" x2="1030" y2="205" stroke="#FF8200" stroke-width="5"/>
+<line x1="1030" y1="275" x2="1030" y2="305" stroke="#FF8200" stroke-width="5"/>
+<line x1="1030" y1="375" x2="1030" y2="405" stroke="#FF8200" stroke-width="5"/>
+<line x1="1030" y1="475" x2="1030" y2="505" stroke="#FF8200" stroke-width="5"/>
+
+<text x="120" y="642" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#000000">Created by Kori Pickle</text>
+</svg>
