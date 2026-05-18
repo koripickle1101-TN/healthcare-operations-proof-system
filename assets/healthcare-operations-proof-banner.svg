@@ -1,1 +1,48 @@
-<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Healthcare Operations Proof System branded mobile readable banner"><rect width="1200" height="900" fill="#FFFFFF"/><path d="M0 0 H250 C190 180 190 720 250 900 H0 Z" fill="#FF8200"/><text x="310" y="190" font-family="Georgia,serif" font-size="88" font-weight="700" fill="#000000">HEALTHCARE</text><text x="310" y="300" font-family="Georgia,serif" font-size="100" font-weight="700" fill="#FF8200">OPERATIONS</text><text x="310" y="410" font-family="Georgia,serif" font-size="88" font-weight="700" fill="#000000">PROOF SYSTEM</text><line x1="310" y1="470" x2="1135" y2="470" stroke="#FF8200" stroke-width="8" stroke-dasharray="20 18"/><g fill="#FFFFFF" stroke="#FF8200" stroke-width="7"><circle cx="365" cy="570" r="48"/><circle cx="550" cy="570" r="48"/><circle cx="735" cy="570" r="48"/><circle cx="920" cy="570" r="48"/><circle cx="1085" cy="570" r="48"/></g><g fill="none" stroke="#FF8200" stroke-width="4"><circle cx="365" cy="570" r="31"/><circle cx="550" cy="570" r="31"/><circle cx="735" cy="570" r="31"/><circle cx="920" cy="570" r="31"/><circle cx="1085" cy="570" r="31"/></g><g font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#000000" text-anchor="middle"><text x="365" y="660">Workflow</text><text x="550" y="660">Denials</text><text x="735" y="660">Access</text><text x="920" y="660">Authorization</text><text x="1085" y="660">Proof</text></g><text x="310" y="760" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#000000">Built to show operational thinking before professional experience.</text><text x="310" y="815" font-family="Arial,sans-serif" font-size="32" font-style="italic" fill="#FF8200">White space. Black clarity. Tennessee Orange urgency.</text><text x="42" y="760" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">Created by</text><text x="42" y="800" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">Kori Pickle</text><text x="42" y="850" font-family="Brush Script MT,Segoe Script,cursive" font-size="46" fill="#000000">Kori Pickle</text></svg>
+<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="640" fill="#FFFFFF"/>
+<rect width="1280" height="56" fill="#FF8200"/>
+<rect y="584" width="1280" height="56" fill="#FF8200"/>
+<rect x="72" y="112" width="12" height="410" fill="#FF8200"/>
+
+<text x="124" y="190" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#000000">
+HEALTHCARE
+</text>
+
+<text x="124" y="286" font-family="Georgia,serif" font-size="88" font-weight="700" fill="#FF8200">
+OPERATIONS
+</text>
+
+<text x="124" y="382" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#000000">
+PROOF SYSTEM
+</text>
+
+<line x1="124" y1="438" x2="718" y2="438" stroke="#FF8200" stroke-width="8"/>
+
+<text x="780" y="185" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#000000">
+Workflow clarity.
+</text>
+
+<text x="780" y="250" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#000000">
+Denial prevention.
+</text>
+
+<text x="780" y="315" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#000000">
+Patient access.
+</text>
+
+<text x="780" y="380" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#000000">
+Revenue cycle visibility.
+</text>
+
+<text x="780" y="505" font-family="Arial,sans-serif" font-size="32" font-style="italic" fill="#FF8200">
+White space. Black clarity.
+</text>
+
+<text x="780" y="555" font-family="Arial,sans-serif" font-size="32" font-style="italic" fill="#FF8200">
+Tennessee Orange urgency.
+</text>
+
+<text x="124" y="555" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#000000">
+Created by Kori Pickle
+</text>
+</svg>
