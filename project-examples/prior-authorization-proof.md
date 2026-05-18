@@ -1,5 +1,7 @@
 # Prior Authorization Proof Case Study
 
+<img src="../assets/prior-authorization-coordination-workflow-visual.svg" width="100%" alt="Prior Authorization Is a Coordination Workflow">
+
 ## Brand Colors
 
 | Brand Role | Hex Code | Use |
