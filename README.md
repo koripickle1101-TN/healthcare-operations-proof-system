@@ -1,12 +1,18 @@
-<div align="center">
-
-<img src="assets/healthcare-operations-proof-banner.svg" alt="Healthcare Operations Proof System branded banner" width="100%">
-
-</div>
+<img src="assets/healthcare-operations-proof-banner.svg" width="100%" alt="Healthcare Operations Proof System">
 
 # Healthcare Operations Proof System
 
 A branded healthcare operations portfolio system focused on workflow breakdowns, denial prevention, patient access, prior authorization, revenue cycle visibility, and operational proof-of-work.
+
+## Quick Navigation
+
+| Section | Purpose |
+|---|---|
+| [Design System](design-system/) | Brand colors, visual identity rules, and design standards |
+| [Proof Framework](proof-framework/) | Reusable workflow, case study, and metric tracking templates |
+| [Project Examples](project-examples/) | Healthcare operations proof-of-work examples |
+| [LinkedIn Assets](linkedin-assets/) | Featured section copy and portfolio caption templates |
+| [Assets](assets/) | Banner and visual files |
 
 ## Brand Colors
 
@@ -65,36 +71,38 @@ This proof system turns those breakdowns into clear workflow maps, risk tables, 
 | Revenue Cycle Visibility | Understanding of claim flow, rework, A/R delays, and operational bottlenecks |
 | Operational Proof-of-Work | Ability to translate learning into visible, recruiter-readable projects |
 
-## Repository Structure
+## Repository Files
 
-```text
-healthcare-operations-proof-system/
+### Design System
 
-README.md
-LICENSE
+| File | Purpose |
+|---|---|
+| [brand-colors.md](design-system/brand-colors.md) | Defines the strict white, Tennessee Orange, and black brand system |
+| [visual-identity-rules.md](design-system/visual-identity-rules.md) | Defines layout rules, visual tone, and brand consistency standards |
 
-assets/
-  healthcare-operations-proof-banner.svg
+### Proof Framework
 
-design-system/
-  brand-colors.md
-  visual-identity-rules.md
+| File | Purpose |
+|---|---|
+| [workflow-breakdown-template.md](proof-framework/workflow-breakdown-template.md) | Reusable template for analyzing where healthcare workflows break |
+| [case-study-template.md](proof-framework/case-study-template.md) | Reusable case study format for healthcare operations examples |
+| [metric-tracking-template.md](proof-framework/metric-tracking-template.md) | Template for defining, tracking, and interpreting workflow metrics |
 
-proof-framework/
-  workflow-breakdown-template.md
-  case-study-template.md
-  metric-tracking-template.md
+### Project Examples
 
-project-examples/
-  denial-prevention-proof.md
-  eligibility-verification-proof.md
-  prior-authorization-proof.md
-  patient-access-proof.md
+| File | Purpose |
+|---|---|
+| [denial-prevention-proof.md](project-examples/denial-prevention-proof.md) | Shows how upstream workflow issues become downstream denials |
+| [eligibility-verification-proof.md](project-examples/eligibility-verification-proof.md) | Shows how eligibility verification protects clean claim readiness |
+| [prior-authorization-proof.md](project-examples/prior-authorization-proof.md) | Shows how authorization visibility affects patient access and reimbursement |
+| [patient-access-proof.md](project-examples/patient-access-proof.md) | Shows how patient access workflows affect downstream revenue cycle stability |
 
-linkedin-assets/
-  featured-section-copy.md
-  portfolio-caption-template.md
-```
+### LinkedIn Assets
+
+| File | Purpose |
+|---|---|
+| [featured-section-copy.md](linkedin-assets/featured-section-copy.md) | Copy for adding this portfolio to LinkedIn Featured |
+| [portfolio-caption-template.md](linkedin-assets/portfolio-caption-template.md) | Reusable caption template for posting portfolio updates |
 
 ## Build Plan
 
