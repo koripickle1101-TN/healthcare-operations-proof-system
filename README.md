@@ -98,6 +98,13 @@ This proof system turns those breakdowns into clear workflow maps, risk tables, 
 | [patient-access-proof.md](project-examples/patient-access-proof.md) | Shows how patient access workflows affect downstream revenue cycle stability |
 | [revenue-cycle-visibility-proof.md](project-examples/revenue-cycle-visibility-proof.md) | Shows how metrics, root-cause tracking, ownership, and escalation logic improve workflow control |
 
+### Tools
+
+| File | Purpose |
+|---|---|
+| [Revenue_Cycle_Visibility_Tracker_Kori_Pickle.xlsx](tools/Revenue_Cycle_Visibility_Tracker_Kori_Pickle.xlsx) | Branded Excel workbook showing simulated revenue cycle visibility tracking, KPI cards, denial root causes, workqueue priority logic, and metric definitions |
+| [revenue-cycle-visibility-tracker.md](tools/revenue-cycle-visibility-tracker.md) | Documentation page explaining the tracker structure, KPIs, operational value, and simulated-data disclaimer |
+
 ### LinkedIn Assets
 
 | File | Purpose |
