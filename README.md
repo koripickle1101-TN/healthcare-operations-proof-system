@@ -96,6 +96,7 @@ This proof system turns those breakdowns into clear workflow maps, risk tables, 
 | [eligibility-verification-proof.md](project-examples/eligibility-verification-proof.md) | Shows how eligibility verification protects clean claim readiness |
 | [prior-authorization-proof.md](project-examples/prior-authorization-proof.md) | Shows how authorization visibility affects patient access and reimbursement |
 | [patient-access-proof.md](project-examples/patient-access-proof.md) | Shows how patient access workflows affect downstream revenue cycle stability |
+| [revenue-cycle-visibility-proof.md](project-examples/revenue-cycle-visibility-proof.md) | Shows how metrics, root-cause tracking, ownership, and escalation logic improve workflow control |
 
 ### LinkedIn Assets
 
@@ -108,11 +109,11 @@ This proof system turns those breakdowns into clear workflow maps, risk tables, 
 
 | Build | Project | Purpose |
 |---:|---|---|
-| 01 | Denial Prevention Proof | Show how upstream workflow issues become downstream denials |
-| 02 | Eligibility Verification Proof | Show how front-end data quality protects clean claim readiness |
-| 03 | Prior Authorization Proof | Show how payer rules, documentation, and status tracking affect patient access and reimbursement |
-| 04 | Patient Access Proof | Show how scheduling, intake, clearance, and communication affect workflow stability |
-| 05 | Revenue Cycle Visibility Proof | Show how operational metrics reveal bottlenecks, rework, and risk |
+| 01 | [Denial Prevention Proof](project-examples/denial-prevention-proof.md) | Show how upstream workflow issues become downstream denials |
+| 02 | [Eligibility Verification Proof](project-examples/eligibility-verification-proof.md) | Show how front-end data quality protects clean claim readiness |
+| 03 | [Prior Authorization Proof](project-examples/prior-authorization-proof.md) | Show how payer rules, documentation, and status tracking affect patient access and reimbursement |
+| 04 | [Patient Access Proof](project-examples/patient-access-proof.md) | Show how scheduling, intake, clearance, and communication affect workflow stability |
+| 05 | [Revenue Cycle Visibility Proof](project-examples/revenue-cycle-visibility-proof.md) | Show how operational metrics reveal bottlenecks, rework, and risk |
 
 ## Resume-Ready Value
 
@@ -123,6 +124,7 @@ This repository demonstrates:
 - denial prevention logic
 - patient access process awareness
 - prior authorization workflow mapping
+- revenue cycle visibility analysis
 - operational root-cause thinking
 - portfolio documentation
 - visual healthcare communication
