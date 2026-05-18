@@ -1,0 +1,36 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<rect width="1280" height="46" fill="#FF8200"/>
+<rect y="674" width="1280" height="46" fill="#FF8200"/>
+<rect x="70" y="96" width="10" height="500" fill="#FF8200"/>
+
+<text x="120" y="155" font-family="Georgia,serif" font-size="64" font-weight="700" fill="#000000">DENIALS USUALLY</text>
+<text x="120" y="235" font-family="Georgia,serif" font-size="78" font-weight="700" fill="#FF8200">START UPSTREAM.</text>
+
+<line x1="120" y1="282" x2="770" y2="282" stroke="#FF8200" stroke-width="7"/>
+
+<text x="120" y="350" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="#000000">Before a claim is denied, a workflow usually broke earlier.</text>
+
+<text x="120" y="430" font-family="Arial,sans-serif" font-size="30" fill="#000000">Intake gaps</text>
+<text x="120" y="480" font-family="Arial,sans-serif" font-size="30" fill="#000000">Eligibility verification errors</text>
+<text x="120" y="530" font-family="Arial,sans-serif" font-size="30" fill="#000000">Missed authorization requirements</text>
+<text x="120" y="580" font-family="Arial,sans-serif" font-size="30" fill="#000000">Documentation and handoff breakdowns</text>
+
+<rect x="830" y="120" width="330" height="84" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="860" y="173" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#000000">Patient Access</text>
+
+<rect x="830" y="250" width="330" height="84" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="860" y="303" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#000000">Eligibility</text>
+
+<rect x="830" y="380" width="330" height="84" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="860" y="433" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#000000">Authorization</text>
+
+<rect x="830" y="510" width="330" height="84" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="860" y="563" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#000000">Claim Outcome</text>
+
+<line x1="995" y1="204" x2="995" y2="250" stroke="#FF8200" stroke-width="5"/>
+<line x1="995" y1="334" x2="995" y2="380" stroke="#FF8200" stroke-width="5"/>
+<line x1="995" y1="464" x2="995" y2="510" stroke="#FF8200" stroke-width="5"/>
+
+<text x="120" y="642" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#000000">Created by Kori Pickle</text>
+</svg>
