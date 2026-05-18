@@ -1,7 +1,7 @@
-<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
-<rect width="1280" height="640" fill="#FFFFFF"/>
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="720" fill="#FFFFFF"/>
 <rect width="1280" height="56" fill="#FF8200"/>
-<rect y="584" width="1280" height="56" fill="#FF8200"/>
+<rect y="664" width="1280" height="56" fill="#FF8200"/>
 <rect x="72" y="112" width="12" height="410" fill="#FF8200"/>
 
 <text x="124" y="190" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#000000">
