@@ -1,0 +1,40 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<rect width="1280" height="46" fill="#FF8200"/>
+<rect y="674" width="1280" height="46" fill="#FF8200"/>
+<rect x="70" y="96" width="10" height="500" fill="#FF8200"/>
+
+<text x="120" y="150" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#000000">ELIGIBILITY ERRORS</text>
+<text x="120" y="225" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#FF8200">BECOME DOWNSTREAM DENIALS.</text>
+
+<line x1="120" y1="275" x2="820" y2="275" stroke="#FF8200" stroke-width="7"/>
+
+<text x="120" y="340" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#000000">Clean claims start before billing.</text>
+
+<text x="120" y="420" font-family="Arial,sans-serif" font-size="29" fill="#000000">Inactive coverage</text>
+<text x="120" y="470" font-family="Arial,sans-serif" font-size="29" fill="#000000">Wrong member ID</text>
+<text x="120" y="520" font-family="Arial,sans-serif" font-size="29" fill="#000000">Incorrect payer or plan</text>
+<text x="120" y="570" font-family="Arial,sans-serif" font-size="29" fill="#000000">COB and authorization gaps</text>
+
+<rect x="850" y="115" width="330" height="76" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="880" y="164" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#000000">Patient Scheduled</text>
+
+<rect x="850" y="225" width="330" height="76" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="880" y="274" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#000000">Coverage Verified</text>
+
+<rect x="850" y="335" width="330" height="76" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="880" y="384" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#000000">Payer Validated</text>
+
+<rect x="850" y="445" width="330" height="76" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="880" y="494" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#000000">Account Cleared</text>
+
+<rect x="850" y="555" width="330" height="76" fill="#FFFFFF" stroke="#FF8200" stroke-width="6"/>
+<text x="880" y="604" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#000000">Claim Protected</text>
+
+<line x1="1015" y1="191" x2="1015" y2="225" stroke="#FF8200" stroke-width="5"/>
+<line x1="1015" y1="301" x2="1015" y2="335" stroke="#FF8200" stroke-width="5"/>
+<line x1="1015" y1="411" x2="1015" y2="445" stroke="#FF8200" stroke-width="5"/>
+<line x1="1015" y1="521" x2="1015" y2="555" stroke="#FF8200" stroke-width="5"/>
+
+<text x="120" y="642" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#000000">Created by Kori Pickle</text>
+</svg>
