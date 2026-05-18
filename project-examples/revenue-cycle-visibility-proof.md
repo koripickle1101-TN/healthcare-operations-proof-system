@@ -1,5 +1,7 @@
 # Revenue Cycle Visibility Proof Case Study
 
+<img src="../assets/revenue-cycle-visibility-proof-visual.svg" width="100%" alt="Revenue Cycle Visibility Creates Control">
+
 ## Brand Colors
 
 | Brand Role | Hex Code | Use |
