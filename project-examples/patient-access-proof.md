@@ -1,5 +1,7 @@
 # Patient Access Proof Case Study
 
+<img src="../assets/patient-access-front-door-revenue-cycle-visual.svg" width="100%" alt="Patient Access Is the Front Door">
+
 ## Brand Colors
 
 | Brand Role | Hex Code | Use |
