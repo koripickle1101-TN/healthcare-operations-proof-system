@@ -1,5 +1,7 @@
 # Eligibility Verification Proof Case Study
 
+<img src="../assets/eligibility-errors-downstream-denials-visual.svg" width="100%" alt="Eligibility Errors Become Downstream Denials">
+
 ## Brand Colors
 
 | Brand Role | Hex Code | Use |
